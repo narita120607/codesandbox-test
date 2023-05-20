@@ -1,3 +1,13 @@
 body {
   font-family: sans-serif;
 }
+.input-area {
+  background-color: aquamarine;
+}
+.imcomplete-area {
+  background-color: #c6ffe2;
+  min-height: 200px;
+}
+.complete-area {
+  background-color: #ffffe0;
+}
